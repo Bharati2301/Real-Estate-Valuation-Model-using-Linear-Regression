@@ -1,4 +1,4 @@
-# Predicting-house-prices-using-Linear-Regression
+# Real-Estate-Valuation-Model-using-Linear-Regression
 
 ## PROBLEM STATEMENT
 * Problem Statement – A real state agents want help to predict the house price for various regions. He gave you the dataset to work on and you decided to use the Linear Regression Model. Create a model that can accurately predict the price of a house, given the values of all variables.
